@@ -9,7 +9,9 @@
     "hexonew": "hexo new",
     "n-start": "dotenv -e production.env node production.js",
     "start": "pm2 start npm -- run n-start",
-    "pm2": "pm2"
+    "pm2": "pm2",
+    "upload": "bash upload.sh",
+    "unzip": ""
   },
   "repository": {
     "type": "git",
