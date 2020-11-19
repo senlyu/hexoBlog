@@ -2,11 +2,12 @@
   "name": "hexoblog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "production.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "hexo": "hexo",
-    "hexonew": "hexo new"
+    "hexonew": "hexo new",
+    "start": "dotenv -e production.env node production.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "hexo": "^5.2.0"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^4.0.0"
   }
 }
