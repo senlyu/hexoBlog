@@ -1,0 +1,32 @@
+{
+  "name": "hexoblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "production.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hexo": "hexo",
+    "hexonew": "hexo new",
+    "n-start": "dotenv -e production.env node production.js",
+    "start": "pm2 start npm -- run n-start",
+    "pm2": "pm2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senlyu/hexoBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senlyu/hexoBlog/issues"
+  },
+  "homepage": "https://github.com/senlyu/hexoBlog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hexo": "^5.2.0"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^4.0.0",
+    "pm2": "^4.5.0"
+  }
+}
