@@ -6,6 +6,8 @@ tags:
   - Personal
 ---
 
+# Purpose of creating this blog
+
 The most detailed requirement always comes after the development finished, just like that, because I am not yet finished the blog, I cannot summary all the reasons that push me to create a personal blog. 
 
 Still there are some fragment remaining in the deep of my head seems explain my purpose. Those fragments are like those old witches singing in the background of a haunted castle, words like:
@@ -17,6 +19,8 @@ Still there are some fragment remaining in the deep of my head seems explain my 
 
 ---
 ---
+
+# 创建blog的目的
 
 所有明确额需求只有等到开发完成之后才会出现，正因为如此，我还没有完成这个blog，所以我一时半会也无法解释我需要这个blog的原因。
 
