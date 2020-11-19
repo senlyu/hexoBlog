@@ -9,7 +9,7 @@ httpServer.listen(80, () => {
 });
 
 if (process.env.NODE_ENV==='production') {
-  const credentials = require('./httpCred')
+  const credentials = require('./httpsCred')
   const httpsServer = https.createServer(credentials, app);
   httpsServer.listen(443, () => {
     console.log('HTTPS Server running on port 443');
