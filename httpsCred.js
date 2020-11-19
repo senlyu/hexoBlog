@@ -1,3 +1,4 @@
+const fs = require('fs')
 // Certificate
 const privateKey = fs.readFileSync('/etc/letsencrypt/live/senlyu.com/privkey.pem', 'utf8');
 const certificate = fs.readFileSync('/etc/letsencrypt/live/senlyu.com/cert.pem', 'utf8');
