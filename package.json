@@ -7,11 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "hexo": "hexo",
     "hexonew": "hexo new",
+    "dev": "dotenv -e dev.env node production.js",
     "n-start": "dotenv -e production.env node production.js",
     "start": "pm2 start npm -- run n-start",
     "pm2": "pm2",
     "upload": "bash upload.sh",
-    "unzip": ""
+    "unzip": "bash unzip.sh"
   },
   "repository": {
     "type": "git",

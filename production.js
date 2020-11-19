@@ -1,18 +1,17 @@
-const express = require('express')
-const app = express()
-const port = process.env.PORT
 
-app.use(express.static(process.env.STATIC_FOLDER))
+const http = require('http');
+const https = require('https');
+const app = require('./app')
 
-app.use('*', (req, res, next)=>{
-  console.log(`Got a request: ${req.method} ${req.url}`)
-  next()
-})
+const httpServer = http.createServer(app);
+httpServer.listen(80, () => {
+	console.log('HTTP Server running on port 80');
+});
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
-
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
-})
+if (process.env.NODE_ENV==='production') {
+  const credentials = require('./httpCred')
+  const httpsServer = https.createServer(credentials, app);
+  httpsServer.listen(443, () => {
+    console.log('HTTPS Server running on port 443');
+  });
+}
