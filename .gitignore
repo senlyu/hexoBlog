@@ -6,4 +6,5 @@ node_modules/
 public/
 .deploy*/
 production.env
+dev.env
 public.zip
