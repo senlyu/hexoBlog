@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "hexo": "hexo",
     "hexonew": "hexo new",
-    "start": "dotenv -e production.env node production.js"
+    "n-start": "dotenv -e production.env node production.js",
+    "start": "pm2 start npm -- run n-start",
+    "pm2": "pm2"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,7 @@
     "hexo": "^5.2.0"
   },
   "devDependencies": {
-    "dotenv-cli": "^4.0.0"
+    "dotenv-cli": "^4.0.0",
+    "pm2": "^4.5.0"
   }
 }
