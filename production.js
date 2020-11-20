@@ -4,8 +4,9 @@ const https = require('https');
 const app = require('./app')
 
 const httpServer = http.createServer(app);
-httpServer.listen(80, () => {
-	console.log('HTTP Server running on port 80');
+const httpPort = +process.env.HTTP_PORT || 80
+httpServer.listen(httpPort, () => {
+	console.log('HTTP Server running on port ' + httpPort);
 });
 
 if (process.env.NODE_ENV==='production') {
