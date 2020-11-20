@@ -1,4 +1,4 @@
-cd /home/www/hexoBlog
+cd hexoBlog
 if [ -d public ]
 then 
     echo 'exist'
