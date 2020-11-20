@@ -8,3 +8,4 @@ public/
 production.env
 dev.env
 public.zip
+upload.env
