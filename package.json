@@ -11,7 +11,7 @@
     "n-start": "dotenv -e production.env node production.js",
     "start": "pm2 start npm -- run n-start",
     "pm2": "pm2",
-    "upload": "source ./upload.env && bash upload.sh",
+    "upload": ". ./upload.env && bash upload.sh",
     "unzip": "bash unzip.sh"
   },
   "repository": {
