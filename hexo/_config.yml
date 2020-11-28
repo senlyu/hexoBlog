@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://senlyu.com
-root: /
+url: https://senlyu.com/blog/
+root: /blog/
 permalink: :lang/:title/
 permalink_defaults: 
   lang: 
@@ -44,7 +44,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -107,3 +107,7 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+marked:
+  prependRoot: true
+  postAsset: true
