@@ -21,6 +21,7 @@ app.use('*', (req, res) => {
     res.sendStatus(503)
   // if not found will go 404 page
   } else {
+    console.log(req.originalUrl)
     res.redirect('/blog/404')
   }
 })
