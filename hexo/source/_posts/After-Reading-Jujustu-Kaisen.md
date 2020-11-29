@@ -1,6 +1,7 @@
 ---
 title: After-Reading-Jujustu-Kaisen
 date: 2020-11-25 22:41:28
+categories: Thoughts
 tags:
   - Personal
   - Art
