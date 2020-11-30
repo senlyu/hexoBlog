@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: senlyu
-subtitle: 'Personal Blog Website'
-description: 'Personal Blog Website'
+title: Leebber
+subtitle: "Lyu Sen's Personal Blog Website"
+description: 'Grateful to God'
 keywords: Blog, Tech
 author: Sen Lyu
 language: en
@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://senlyu.com/blog/
 root: /blog/
-permalink: :lang/:title/
+permalink: :title/
 permalink_defaults: 
   lang: 
     - en
