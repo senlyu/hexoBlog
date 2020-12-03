@@ -9,3 +9,4 @@ production.env
 dev.env
 public.zip
 upload.env
+downloads/
