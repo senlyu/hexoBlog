@@ -13,3 +13,5 @@ I love computer games, I love management games. Also consider programming is kin
 I still have a lot to learn, and I will share what I learned in this blog.
 
 Thank you.
+
+Here is my [Resume](https://senlyu.com/downloads/DataEngineerCV.pdf)S
