@@ -14,4 +14,4 @@ I still have a lot to learn, and I will share what I learned in this blog.
 
 Thank you.
 
-Here is my [Resume](https://senlyu.com/downloads/DataEngineerCV.pdf)S
+Here is my [Resume](https://senlyu.com/download/DataEngineerCV.pdf)
