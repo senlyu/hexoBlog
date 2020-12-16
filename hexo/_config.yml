@@ -115,12 +115,16 @@ marked:
 # RSS
 feed:
   enable: true
-  type: atom
-  path: atom.xml
+  type: 
+    - atom
+    - rss2
+  path: 
+    - atom.xml
+    - rss2.xml
   limit: 20
   hub:
-  content:
-  content_limit: 140
+  content: false
+  content_limit: 1400
   content_limit_delim: ' '
   order_by: -date
   icon: icon.png
