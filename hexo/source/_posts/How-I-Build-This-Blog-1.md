@@ -1,18 +1,18 @@
 ---
 layout: posts
 title: How-I-Build-This-Blog-1
+categories: How-I-Build-This-Blog
 tags:
   - Tech
   - English
   - Chinese
-  - How-I-Build-This-Blog
 date: 2021-01-11 17:33:23
 ---
 
 
-[How I Build This Blog](https://senlyu.com/blog/tags/How-I-Build-This-Blog/) First Part.
+## [How I Build This Blog](https://senlyu.com/blog/categories/How-I-Build-This-Blog/) First Part.
 
-## Requirements:
+### Requirements:
 
 After nearly 2 years at this field, now I know how to speak before anything to be done. Yes, you need to ask the million dollar question: could you clarify your requirements?  
 Before I build this Blog, I asked myself what is the requirements for this blog? Here are some of mine requirements:
@@ -22,7 +22,7 @@ Before I build this Blog, I asked myself what is the requirements for this blog?
 3. It has to support my personal domain: senlyu.com . Yes, this domain is so damn cool, why not using it?
 4. It need to be flexible, right now it is a blog, but one day if I find something interesting, I dont want to open another system to support that feature. The potential features I am referring to here is the API system.
 
-## Choices:
+### Choices:
 
 Ok, let have a look for some choices:
 
@@ -48,9 +48,9 @@ My final choice will be hexo + express. That will be the most easy way for me to
 ---
 ---
 
-[我如何搭建这个blog系列](https://senlyu.com/blog/tags/How-I-Build-This-Blog/) 第一篇
+## [我如何搭建这个blog系列](https://senlyu.com/blog/categories/How-I-Build-This-Blog/) 第一篇
 
-## 需求
+### 需求
 
 工作了两年之后，我终于知道在开始做任何事之前必须要说出口的事情。永远不要忘了问：是否能再跟我明确一下需求？  
 在我开始搭建工作之前，我就问了自己这个问题，如今我有这几个需求：  
@@ -59,7 +59,7 @@ My final choice will be hexo + express. That will be the most easy way for me to
 3. 第三，一定要支持我的个人域名，我这么吊的域名买了不是白买的，我一定要上个人域名。
 4. 第四，要灵活。不一定什么时候我可能要用这个blog的服务器做点啥事，这个服务器不能是死的，要比较容易来拓展，而这个对我而言就是用node js做base，这个语言我最熟（呼应第一点）。
 
-## 选择：
+### 选择：
 
 我目前的一些选择
 
