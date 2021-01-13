@@ -9,6 +9,7 @@ tags:
 date: 2021-01-11 17:33:23
 ---
 
+![](header.jpeg)
 
 ## [How I Build This Blog](https://senlyu.com/blog/categories/How-I-Build-This-Blog/) First Part.
 
