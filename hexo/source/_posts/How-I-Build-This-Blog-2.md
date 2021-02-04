@@ -1,11 +1,14 @@
 ---
+layout: drafts
 title: How-I-Build-This-Blog-2
-categories: How-I-Build-This-Blog
 tags:
   - Tech
   - English
   - Chinese
+categories: How-I-Build-This-Blog
+date: 2021-01-13 01:52:15
 ---
+
 
 ![](header.jpg)
 
