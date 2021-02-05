@@ -3,8 +3,6 @@ title: Mumble
 date: 2020-02-04 00:50:00
 ---
 
-# Mumble -- 呓语
-
 
 ---
 
