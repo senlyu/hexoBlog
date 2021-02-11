@@ -3,6 +3,19 @@ title: Mumble
 date: 2020-02-04 00:50:00
 ---
 
+---
+
+## Untitled || 无题
+
+好不容易搞起了blog，现在别人开始搞clubhouse了，感觉落后了几个时代。不过做起来了就继续做下去吧。  
+最近为公司研究了一下第三方服务API接入的问题。看别人家的API文档真的是舒服，还有整套的SDK。我们自家的，对了我们自家是没有文档的。第三方离不开Oauth，不过Oauth的模式还是很容易的。  
+最近一直在玩slay the spire。这个游戏太赌博了，一玩就不想停下来，因为赌徒心理，总觉得下一把可以。真的没啥技术含量，就是看运气抽不抽的到要的卡。  
+
+Took me some time to build this blog, and yes, people start to get clubhouse.  I feel I have been left for decades. Since I have already started, I will keep going.  
+These days, I research on third party connection. I was reading about other app's API documents. Those documents are really good, and they have SDK. So, for us... we dont have documents. Well third party connection will always come with Oauth, I spend some time learning Oauth, I found is not that difficult.  
+And recently, I have been playing Slay The Spire. The game is a true gambling game, when I start I dont want to stop. These is no much tips/skills in the game, all about is the luck. 
+
+<div style="text-align: right">02-10-2021</div>
 
 ---
 
