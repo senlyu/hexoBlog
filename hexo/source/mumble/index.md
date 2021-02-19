@@ -5,6 +5,17 @@ date: 2021-02-04 00:50:00
 
 ---
 
+## Online Course in Feb Every Year || 每年二月学网课
+2017年2月，我在Udacity上完成了Data Engineer的网课。2018年2月，我在Udacity在没有按时完成Deep Learning的网课，因为那一年我回家了一趟，错过了项目时间，要再学还要花钱，就算了。2019年2月我在Udacity完成了Front-End Developer的项目。2020年2月我工作压力很大。2021年2月，我完成了Udacity上C++的课程。估计是因为2月在外过年，比较孤独吧。
+
+In Feb 2017, I finished Udacity Data Engineer Nano-degree. In Feb 2018, I took Udacity Deep Learning Nano-degree but not finished because I went back to China. In Feb 2019, I finished Udacity Front-End Developer Nano-degree. In Feb 2021, I finished C++ Nano-degree. I guess because Feb contains day for Chinese new year, I feel lonely when I am aboard.
+
+<div style="text-align: right">02-19-2021</div>
+
+---
+
+---
+
 ## Untitled || 无题
 
 好不容易搞起了blog，现在别人开始搞clubhouse了，感觉落后了几个时代。不过做起来了就继续做下去吧。  
