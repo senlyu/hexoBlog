@@ -5,6 +5,18 @@ date: 2021-02-04 00:50:00
 
 ---
 
+## Start work with junior developer on my project || 开始带新人
+开始带新人，我兴奋之余诚惶诚恐。今日，是我工作整两年的日子。回忆刚来的时候，啥都不懂但是啥都不怕做。工作一年，我的具体代码能力应该是摆脱了初级阶段了。工作到一年半，自己完整的项目上线之后，虽然后续有bug重重，但是应该是翻过了一座山了，工程能力已经摆脱了初级阶段了。如今过了半年，其实也就是写设计文档更快了，没什么其他的突破。但是说要我来带新人，我觉得是很难的。类似刚刚浮出水面可以喘气的阶段，现在脚下又被一个人抓住。说实在的，我能给新人说什么呢？我啥都没有，所以要做的更好，压力更大了。但有压力也是刺激自己前进，我觉得也好。
+
+Start to work with junior developer. I am exciting but also full of stress. And today is the day I start working for two whole years. I remember when I first joined the team, I knew nothing but tried to do everything I could do. After a whole year, I think my coding skill was over the entry-level requirement. After another half year, I think my engineer skill was over the entry-level requirement. Now, another half year passed, I dont have much improvement, maybe a little enhanced on designing development plans.   
+But work with junior and provide some instruction are still too much for me. It feels like I try so hard to go over the water and start breathing, but suddenly someone under the water grab my feet. What can I say? I have nothing to instruct others, so I feel stress and worrying. But maybe the stress and worries will push me out of comfort zone and to a better place.
+
+<div style="text-align: right">02-25-2021</div>
+
+---
+
+---
+
 ## Online Course in Feb Every Year || 每年二月学网课
 2017年2月，我在Udacity上完成了Data Engineer的网课。2018年2月，我在Udacity在没有按时完成Deep Learning的网课，因为那一年我回家了一趟，错过了项目时间，要再学还要花钱，就算了。2019年2月我在Udacity完成了Front-End Developer的项目。2020年2月我工作压力很大。2021年2月，我完成了Udacity上C++的课程。估计是因为2月在外过年，比较孤独吧。
 
