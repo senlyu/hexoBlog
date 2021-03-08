@@ -2,7 +2,7 @@
 title: Routing-With-Ubuntu-Server
 date: 2021-03-01 03:55:56
 tags: 
-    - tech
+    - Tech
     - Chinese
     - English
 ---
