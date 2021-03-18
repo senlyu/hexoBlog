@@ -5,6 +5,43 @@ date: 2021-02-04 00:50:00
 
 ---
 
+## Dont buy m1 macbook yet! || 别买m1 macbook
+最近用了几天新的m1的电脑，13寸的8g。非常卡。我之前用2018款 macbook pro 15 应该是i5的，公司的，结果用坏了，电池鼓大包了。然后换我自己的2018款i7 mac mini用了一段时间，换用目前的m1。  
+我对m1的感受不是很好，我看测评都说m1比i9都快。但是实际体验中是三个中最卡的。我在m1上是能下载m1芯片专用版软件就用专用的。我平时要用的：
+- 30+ chrome tab
+- 1 slack
+- 1 email
+- 1 wechat work
+- 1 postman
+- 1 mongodb
+- 2/3 vs code
+- 5+ terminal
+
+基本上就这么一些东西。之前intel核心的这两个都比较好，用着不卡，或者说有时候小卡一下，几秒钟就好了也不影响使用和写代码。实在慢了就重启一下程序，都很少重启电脑（我本身很少关机）。现在这个m1的，我真的是一天都会卡一次，下午4，5点开始卡，正好是我要收工验证程序的时候。一般这个点我会跑测试，做修改。他就给我卡terminal和vs code。跑一条npm都要个10秒钟才开始跑。  
+如果你一定要我说这个电脑有什么优点。那我觉得这台电脑很适合学生，不用那么tech的人，真的很舒服。  
+奉劝大家不要被测评骗了都是假的。
+
+Recently, I started to use new m1 macbook, it is 13' 8g version. I used 2018 macbook pro 15 at first, its from my company and it is a new one, then it's battery got swollen, I have to change to my own 2018 mac mini for a while, it is a 8g i7 mac mini, and now the new m1.  
+I do the same things on these macs, so I think I have a solid position to score them. In the internet, if you search mac m1 chip comparison, they will told you that m1 is better than intel i9. However, No, m1 is the worst.    
+Normally, I will open these softwares in my mac, by the way, I tried my best to install m1 version software on m1, so the comparison will be more reasonable:
+- 30+ chrome tabs
+- slack, email, wechat work
+- postman
+- mongod
+- 2/3 vs code
+- 5+ terminal
+
+That's all. In both 2018 macs, which using intel chips, they work fine. I am not saying that there is never a frozen time. There are some lag happened, but just a few seconds, and restart the program will work, ( I hardly restart computers while working ).   
+And for the m1 macbook pro, everyday it has a frozen time-period. Normally, 4-5 PM, it is the time that I almost finish the job and start testing my new code. Yes, that time the laptop starts lag, doing something like took 10 seconds to start a npm command. Not execute the command, you know npm command will transfer to normal command then start run, this transfer period suddenly took like 10 seconds without any reason, and also the vscode is lagging for you typing.    
+If I have to say some good parts of the m1 macbook, then I think it is good for students, and non-tech people.   
+So, software workers, for your best, dont buy m1 macbook pro.  
+
+<div style="text-align: right">03-17-2021</div>
+
+---
+
+---
+
 ## Graceful exit || 安全退出
 一晃这么久了更新这里，我也不想聊男人好难的话题，所以今天就来简单谈一谈安全退出机制。说真的我才刚刚接触到这个概念，之前我都是一个ctrl-c结束的。之前也对exit做过优化，比如
 ```javascript
