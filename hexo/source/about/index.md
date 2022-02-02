@@ -15,4 +15,4 @@ I still have a lot to learn, and I will share what I learned in this blog.
 
 Thank you.
 
-Here is my [Resume](https://senlyu.com/download/Resume.pdf)
+Here is my [Resume](https://senlyu.com/download/Resume-SenLyu.pdf)
