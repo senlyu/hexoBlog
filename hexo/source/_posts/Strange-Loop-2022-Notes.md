@@ -63,21 +63,21 @@ A way to run native code in sandbox to avoid native code’s memory issues
 - A way of coding, so it will be very easy and clear to add to exist system
 
 ### Akita software: 
-https://www.youtube.com/watch?v=UJA4PGKny2k
+{% youtube UJA4PGKny2k %}
 
 A product/practice to add API listeners for developers to understand old systems. 
 
 eBPF mode to add listeners to the APIs in the old system. And their product provides a solution to better understand the system based on those listeners.
 
 ### Shopify solution for flash sale: 
-https://www.youtube.com/watch?v=J3uUpEC_K78
+{% youtube J3uUpEC_K78 %}
 
 solution in both LB layer and service layer to ensure capacity, starvation and fairness problem
 
 Very good topic to talk about flash sale, talked very detailed about how they choose from different solutions. 
 
 ### Runtime Checker: 
-https://www.youtube.com/watch?v=FI1atZ6wRoQ
+{% youtube FI1atZ6wRoQ %}
 
 Java best practice to enhance system in observation, watchdogs and in prod regression tests
 
@@ -92,7 +92,7 @@ Java best practice to enhance system in observation, watchdogs and in prod regre
 - In tests, define some testing rules to describe the system, and when running the test to verify whether those rules are still valid. (like behaviors testing along the workflows)
 
 ### WNFS: 
-https://www.youtube.com/watch?v=-f4cH_HQU4U
+{% youtube -f4cH_HQU4U %}
 
 a guide on creating a local-based encrypted file system
 
@@ -108,4 +108,4 @@ different language, different solutions for better polymorphism: Overloading, Ov
 
 
 ### Python Performance: scalene
-https://www.youtube.com/watch?v=vVUnCXKuNOg
+{% youtube vVUnCXKuNOg %}
