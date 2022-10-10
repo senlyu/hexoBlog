@@ -3,7 +3,7 @@ title: About
 date: 2020-11-28 01:32:14
 comments: false
 ---
-Hi, Nice to meet you. My name is Sen Lyu. I am a Chinese and now working at United States.  
+Hi, Nice to meet you. My name is Sam Lyu. I am a Chinese and now working at United States.  
 
 I spent most of my early days in eastern China, and then went to US for Master degree. I used to study on ecomonic/finance field, now I am more interested in software programming as my career.
 
