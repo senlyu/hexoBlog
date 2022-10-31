@@ -1,7 +1,9 @@
 ---
 title: Strange-Loop-2022-Notes
 date: 2022-10-10 02:34:47
-tags:
+tags: 
+  - System Design
+  - English
 ---
 
 ## TL;DR
