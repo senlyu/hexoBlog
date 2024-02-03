@@ -87,8 +87,9 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  mumble: /mumble/ || fa fa-bullhorn
-  comments: /comments/ || fa fa-comments
+  Invest: /invest/ || fa fa-money-bill
+  Mumble: /mumble/ || fa fa-bullhorn
+  Comments: /comments/ || fa fa-comments
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   # sitemap: /sitemap.xml || fa fa-sitemap
