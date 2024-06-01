@@ -7,7 +7,7 @@ comments: true
 
 # Sam - Investment Records
 
-## 5月31日 美股4月总结
+## 5月31日 美股5月总结
 Monthly
 短期：7.06%，仓位15%
 中长期：8.6%，仓位75%
