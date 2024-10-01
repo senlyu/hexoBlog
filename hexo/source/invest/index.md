@@ -7,6 +7,15 @@ comments: true
 
 # Sam - Investment Records
 
+## 9月30日 美股9月总结
+Monthly
+短期：21%，仓位90%
+中长期：4.5%，仓位90%
+baseline：2.68%
+
+总结：
+等待
+
 ## 8月31日 美股8月总结
 Monthly
 短期：-18.92%，仓位80%
