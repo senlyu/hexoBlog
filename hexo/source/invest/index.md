@@ -7,6 +7,15 @@ comments: true
 
 # Sam - Investment Records
 
+## 9月30日 美股10月总结
+Monthly
+短期：-13%，仓位90%
+中长期：-6.5%，仓位100%
+baseline：-0.05%
+
+总结：
+hold
+
 ## 9月30日 美股9月总结
 Monthly
 短期：21%，仓位90%
