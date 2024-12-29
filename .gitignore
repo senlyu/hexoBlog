@@ -10,3 +10,4 @@ dev.env
 public.zip
 upload.env
 downloads/
+hexo.code-workspace

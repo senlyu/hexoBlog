@@ -4,7 +4,7 @@ const app = express()
 // static blog files
 app.use('/blog', express.static(process.env.STATIC_FOLDER))
 app.get('/download/:fileName', function(req, res){
-  const file = `${__dirname}/downloads/${req.params.fileName}`;
+  const file = `${__dirname}/downloads/Resume-SenLyu.pdf`;
   res.download(file); // Set disposition and send it.
 });
 
