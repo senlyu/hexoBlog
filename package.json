@@ -12,7 +12,8 @@
     "start": "pm2 start npm -- run n-start --cron-restart='0 0 * * *'",
     "pm2": "pm2",
     "upload": ". ./upload.env && bash upload.sh",
-    "unzip": "bash unzip.sh"
+    "unzip": "bash unzip.sh",
+    "save": "bash save_and_upload.sh"
   },
   "repository": {
     "type": "git",
