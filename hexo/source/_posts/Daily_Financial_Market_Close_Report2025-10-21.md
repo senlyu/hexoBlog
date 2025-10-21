@@ -5,6 +5,7 @@ tags:
   - Chinese
   - Financial
   - AutoReports
+  - MarketClose
 ---## 宏观事件
 ### 全球及美国市场动态观察
 
