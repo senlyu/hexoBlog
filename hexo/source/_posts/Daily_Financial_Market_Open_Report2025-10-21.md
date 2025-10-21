@@ -5,6 +5,7 @@ tags:
   - Chinese
   - Financial
   - AutoReports
+  - MarketOpen
 ---## 宏观事件
 ### 市场情绪回暖与地缘政治博弈下的全球市场动态
 
