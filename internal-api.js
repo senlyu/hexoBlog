@@ -12,10 +12,6 @@ app.use(express.json({ limit: '1000mb' }));
 // Helper function to create a slug from a title
 const createSlug = (title) => {
     return title
-        .toLowerCase()
-        .replace(/[^a-z0-9\s-]/g, '') // Remove non-alphanumeric characters
-        .replace(/[\s_-]+/g, '-')    // Replace spaces and underscores with single dash
-        .replace(/^-+|-+$/g, '');     // Remove dashes from start and end
 };
 
 // POST endpoint to create a new blog post
