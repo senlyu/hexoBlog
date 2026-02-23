@@ -21,6 +21,7 @@ const createSlug = (title) => {
 // POST endpoint to create a new blog post
 app.post('/api/posts', async (req, res) => {
     const { title, content } = req.body;
+    console.log(content)
 
     if (!title || !content) {
         return res.status(400).json({ error: 'Title and content are required.' });
