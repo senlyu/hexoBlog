@@ -31,7 +31,7 @@ app.post('/api/posts', async (req, res) => {
     const filename = `${slug}.md`;
     const postPath = path.join(__dirname, 'hexo', 'source', '_posts', filename);
 
-    const postContent = `${content}`;
+    const postContent = content.join('');
 
     try {
         // Write the new post file
