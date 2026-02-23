@@ -7,7 +7,7 @@ const app = express();
 const port = process.env.INTERNAL_API_PORT || 4000;
 
 // Middleware to parse JSON bodies
-app.use(express.json());
+app.use(express.json({ limit: '1000mb' }));
 
 // Helper function to create a slug from a title
 const createSlug = (title) => {
